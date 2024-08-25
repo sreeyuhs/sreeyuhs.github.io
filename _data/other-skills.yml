@@ -1,0 +1,11 @@
+- name: Kubernetes
+  percentage: 75
+  color: info
+
+- name: UiPath - Robotic Process Automation (RPA)
+  percentage: 90
+  color: success
+
+- name: Machine Learning
+  percentage: 60
+  color: secondary

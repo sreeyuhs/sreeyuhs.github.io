@@ -1,0 +1,16 @@
+- title: MSCS  @University of Southern California(USC)
+  from: Aug 2022
+  to: May 2024
+  description: Completed Masters in Computer Science(MSCCS) from Viterbi School of Engineering from USC at Los Angeles. Courses Taken - Algorithms, Web Technology, Machine Learning, Game Development using Unity, Multimedia
+- title: SDE II @Cisco, North Carolina, USA
+  from: May 2024
+  to: present
+  description: Cloud Infrastructure Engineer - Involves development of Kubernetes Operator(CRDs, validator, controller) using Golang, Development of Custom APIService between Custom DNS Provider to Cert-Manager
+- title: SD Intern @Roku, San Jose, USA
+  from: May 2023
+  to: Aug 2023
+  description: Cloud Infrastructure Intern - Built Unified Developer Portal using Backstage.io by Spotify to Integrate devOps Toolchain like Github, Kubernetes, Jenkins, Grafana, Prometheus into a portal for CI/CD, Deployment using Helm Templates
+- title: SDE @Cisco, Bangalore, India
+  from: Aug 2019
+  to: July 2022
+  description: Backend Engineer - Designed & Developed Microservices(REST APIs) using GoLang for highly scalable supply chain logistics website using MongoDB, Queuing Systems - Kafka, RabbitMQ, AWS-S3 Buckets, Golang, Openshift, Docker, Kubernetes, SQL
